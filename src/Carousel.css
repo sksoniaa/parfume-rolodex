@@ -1,0 +1,32 @@
+.slider-container{
+  border: 1px solid rgb(194, 194, 194);
+  background-color: rgba(205, 163, 163, 0.221);
+  margin: 0 auto ;
+  width: 50vw;
+  padding: 100px 24vw;
+}
+
+.card{
+  height: 37vw !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.card > img{
+  display: flex;
+  height: 30vw;
+  margin: 0 auto;
+  border: 2px solid rgb(209, 166, 166);
+  border-radius: 30px;
+  background-color: white;
+  padding: 20px 0;
+}
+
+.card-body{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: rgb(209, 166, 166);
+}
